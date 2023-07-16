@@ -4,9 +4,9 @@
 
 ## Âmbito
 
-Faculdade de Ciências e Tecnologia da Universidade de Coimbra (FCTUC)
-Mestrado em Engenharia Informática (MEI) - Percurso: Engenharia de Software
-Engenharia de Requisitos (EREQ) - 2022/2023
+Faculdade de Ciências e Tecnologia da Universidade de Coimbra (FCTUC) <br />
+Mestrado em Engenharia Informática (MEI) - Percurso: Engenharia de Software <br />
+Engenharia de Requisitos (EREQ) - 2022/2023 <br />
 
 <br />
 
